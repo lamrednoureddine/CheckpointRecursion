@@ -1,0 +1,4 @@
+Objectif du point de contrôle
+Nom : Est palindrome. 
+Description: 
+Testez si un mot est un palindrome. Un mot est un palindrome ne serait-ce que s'il peut être lu de gauche à droite ou de droite à gauche : gag ; kayak; php; radar;....
